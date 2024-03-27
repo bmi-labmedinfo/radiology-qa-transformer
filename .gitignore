@@ -1,0 +1,7 @@
+DATASET
+MODELS
+RESULTS
+SCRIPTS/wandb/
+SCRIPTS/__pycache__/
+
+.idea
