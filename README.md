@@ -2,7 +2,7 @@
 
 1.  **Pre-processing** phase carried out on radiology reports and the related human-expert annotations: [colab notebook](https://colab.research.google.com/drive/1Ek5iphsgqEY7mvemarQ68hF9GBmNye_b?usp=sharing)
 
-2.  **SR registry filling pipeline**: [SCRIPTS]([https://github.com/laurabergomi/NLP_radiology/tree/d6b766bea7c732b0164301f5be428d193c97ed29/SCRIPTS](https://github.com/bmi-labmedinfo/radiology-qa-transformer/tree/main/SCRIPTS))
+2.  **SR registry filling pipeline**: [SCRIPTS](https://github.com/bmi-labmedinfo/radiology-qa-transformer/tree/main/SCRIPTS)
 
 3.  **Comparative analysis of models performances** and **human-expert evaluation analysis**: [colab notebook](https://colab.research.google.com/drive/1sOLWuxg_Srh6VRlFvxzCKPBGVgy6Z9ro?usp=sharing)
 
